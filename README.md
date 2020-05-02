@@ -1,2 +1,6 @@
 # -
-根据https://blog.csdn.net/hxxjxw/article/details/105336981移植的项目
+这个项目根据CSDN hxxjxw 的博客移植改进 出自于 https://blog.csdn.net/hxxjxw/article/details/105336981
+这个项目是和同学一起做的我的部分和他的部分都放上来
+这里有两个数据看板一个是没有后台数据的,一个是有后台数据的,数据库的相关信息已经去除,需要自己添加
+直接运行app.py就可以运行整个项目
+
