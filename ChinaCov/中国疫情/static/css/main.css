@@ -1,0 +1,105 @@
+/* main.css */
+
+body{
+    margin: 0;
+    background: #333;
+}
+#title{
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    top: 0;
+    left: 30%;
+    /* background: #666666; */
+    color: white;
+    font-size: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#time{
+    position: absolute;
+    /*width: 30%;*/
+    height: 10%;
+    top: 5%;
+    right: 2%;
+    color: #ffffff;
+    font-size: 20px;
+}
+#c1{
+    position: absolute;
+    width: 40%;
+    height: 30%;
+    top: 10%;
+    left: 30%;
+    color: white;
+    background: #333333;
+
+}
+#c2{
+    position: absolute;
+    width: 40%;
+    height: 60%;
+    top: 40%;
+    left: 30%;
+    background: #888888;
+
+}
+#l1{
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 10%;
+    left: 0%;
+    background: #666666;
+
+}
+.num{
+    float: left;
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    color: gold;
+    font-size: 10px;
+}
+.txt{
+    width: 25%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "幼圆";
+}
+.txt h2{
+    margin: 0;
+}
+
+#l2{
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 55%;
+    left: 0%;
+    background: #666666;
+
+}
+#r1{
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 10%;
+    right: 0%;
+    background: #777;
+
+}
+#r2{
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 55%;
+    right: 0%;
+    background: #777;
+
+}
